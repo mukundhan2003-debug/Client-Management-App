@@ -11,14 +11,12 @@ A full-stack web app to securely manage client project records.
 
 ### Backend
 ```bash
-cd backend
 pip install -r requirements.txt
 python app.py
 ```
 
 ### Frontend
 ```bash
-cd frontend
 npm install
 npm start
 ```
